@@ -1,0 +1,5 @@
+Minhas tarefas diárias:
+- Estudar Python
+- Praticar Git e Github
+- Organizar repositórios
+- Revisar conteúdos da Pretalab
