@@ -3,3 +3,4 @@ Minhas tarefas diárias:
 - Praticar Git e Github
 - Organizar repositórios
 - Revisar conteúdos da Pretalab
+- Tomar água
