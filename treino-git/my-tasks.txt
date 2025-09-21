@@ -1,2 +1,2 @@
--Sbrir PR de teste
 - Planejar tags
+- Use 'git status' sempre
