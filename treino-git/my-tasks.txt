@@ -1,2 +1,0 @@
-- Planejar tags
-- Use 'git status' sempre
